@@ -2,7 +2,7 @@
 
 * [Module System](https://github.com/shamy1st/java-module-system)
 * [Interface Private Method](https://github.com/shamy1st/java-interface-private-method)
-* Try-With Resource
+* [Try-With Resource](https://github.com/shamy1st/try-with-resource)
 * Anonymous Class
 * @SafeVarargs Annotation
 * Collection Factory Methods
