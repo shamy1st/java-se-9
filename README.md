@@ -1,7 +1,7 @@
 # Java SE 9
 
 * [Module System](https://github.com/shamy1st/java-module-system)
-* Interface Private Method
+* [Interface Private Method](https://github.com/shamy1st/java-interface-private-method)
 * Try-With Resource
 * Anonymous Class
 * @SafeVarargs Annotation
