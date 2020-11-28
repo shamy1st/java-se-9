@@ -14,6 +14,7 @@
 * New Version-String Scheme
 * Control Panel
 * Improved Javadoc
+* HTTP/2 Client
 
 ### Ref
 * https://www.baeldung.com/new-java-9
