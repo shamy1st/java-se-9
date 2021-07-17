@@ -1,11 +1,11 @@
 # Java SE 9
 
-* [Module System](https://github.com/shamy1st/java-module-system)
+* JSR 376: [Module System](https://github.com/shamy1st/java-module-system)
 * [Interface Private Method](https://github.com/shamy1st/java-interface-private-method)
 * [Try-With Resource](https://github.com/shamy1st/try-with-resource)
 * Stream API Improvement
 * Process API Improvement
-* JShell: The Java Shell (REPL)
+* JEP 222: JShell: The Java Shell (REPL)
 * Multi-release JARs
 * Reactive Streams
 * Anonymous Class
