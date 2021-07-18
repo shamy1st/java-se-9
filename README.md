@@ -6,13 +6,13 @@ Feature                                                                         
 [Interface Private Method](https://github.com/shamy1st/java-interface-private-method) | 
 [Try-With Resource](https://github.com/shamy1st/try-with-resource)                    |
 Variable handles                                                                      | JEP 193
-JShell - The Java Shell (Read-Eval-Print Loop)                                        | 
-Compact Strings                                                                       | 
-HiDPI graphics                                                                        | 
-More concurrency updates                                                              | 
-XML catalogs                                                                          | 
-jlink: The Java Linker                                                                | 
-Ahead-of-Time Compilation                                                             | 
+JShell - The Java Shell (Read-Eval-Print Loop)                                        | JEP 222
+Compact Strings                                                                       | JEP 254
+HiDPI graphics                                                                        | JEP 263
+More concurrency updates                                                              | JEP 266
+XML catalogs                                                                          | JEP 268
+jlink: The Java Linker                                                                | JEP 282
+Ahead-of-Time Compilation                                                             | JEP 295
 Stream API Improvement
 Process API Improvement
 Multi-release JARs
