@@ -6,6 +6,7 @@ Feature                                                                         
 [Interface Private Method](https://github.com/shamy1st/java-interface-private-method) | 
 [Try-With Resource](https://github.com/shamy1st/try-with-resource)                    |
 Variable handles                                                                      | JEP 193
+Milling Project Coin                                                                  | JEP 213
 JShell - The Java Shell (Read-Eval-Print Loop)                                        | JEP 222
 Compact Strings                                                                       | JEP 254
 HiDPI graphics                                                                        | JEP 263
