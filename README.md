@@ -1,5 +1,8 @@
 # Java SE 9
 
+* [JSR](https://jcp.org/en/jsr/overview) : Java Specification Requests
+* [JEP](https://en.wikipedia.org/wiki/JDK_Enhancement_Proposal) : JDK Enhancement Proposal
+
 Feature                                                                               | JEP
 --------------------------------------------------------------------------------------|------------------
 [Module System](https://github.com/shamy1st/java-module-system)                       | JSR 376
